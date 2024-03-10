@@ -1,6 +1,6 @@
 # fakeLandingPages
 ## A collection of fake landing pages, free to use and modify.
-## Use coffee_showcase index to view all websites
+## Use coffee_showcase index to view all websites / https://zhmei21.github.io/fakeLandingPage/coffee_showcase/index.html
 ## October 2023
 ### 05.10:
 - coffee_showcase update-> "joo_bank"
